@@ -1,0 +1,11 @@
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/CollectionPractice/obj/Debug/netcoreapp2.0/CollectionPractice.csprojResolveAssemblyReference.cache
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/CollectionPractice/obj/Debug/netcoreapp2.0/CollectionPractice.csproj.CoreCompileInputs.cache
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/CollectionPractice/obj/Debug/netcoreapp2.0/CollectionPractice.AssemblyInfoInputs.cache
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/CollectionPractice/obj/Debug/netcoreapp2.0/CollectionPractice.AssemblyInfo.cs
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/CollectionPractice/bin/Debug/netcoreapp2.0/CollectionPractice.deps.json
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/CollectionPractice/bin/Debug/netcoreapp2.0/CollectionPractice.runtimeconfig.json
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/CollectionPractice/bin/Debug/netcoreapp2.0/CollectionPractice.runtimeconfig.dev.json
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/CollectionPractice/bin/Debug/netcoreapp2.0/CollectionPractice.dll
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/CollectionPractice/bin/Debug/netcoreapp2.0/CollectionPractice.pdb
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/CollectionPractice/obj/Debug/netcoreapp2.0/CollectionPractice.dll
+/Users/jamesorourke/Desktop/DojoAssignments/C#/IntroTo.Net/CollectionPractice/obj/Debug/netcoreapp2.0/CollectionPractice.pdb
